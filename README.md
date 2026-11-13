@@ -87,7 +87,7 @@ $\color{#D8D0C3}\text{I turn repetitive human work into quiet little machines.}$
 ### $\textbf{\color{#782F3B}𝔖𝔱𝔞𝔱𝔰}$
 
 <p align="center">
-  <img src="https://github-stats-extended.vercel.app/api?username=deandoesntcode&hide_border=true&bg_color=171615&title_color=C9B99A&text_color=D8D0C3&icon_color=782F3B">
+  <img src="https://github-stats-extended.vercel.app/api?username=laqtes&hide_border=true&bg_color=171615&title_color=C9B99A&text_color=D8D0C3&icon_color=782F3B">
 </p>
 
 <p align="center">
